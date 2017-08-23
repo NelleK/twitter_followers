@@ -7,7 +7,8 @@ import schedule as sch
 import time
 from shutil import move
 
-#testing git push and pull to github and bitbucket
+# testing git push and pull to github and bitbucket
+# testing git push double from pycharm
 
 def paginate(iterable, page_size):
     while True:
