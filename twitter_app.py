@@ -7,6 +7,8 @@ import schedule as sch
 import time
 from shutil import move
 
+#testing git push and pull to github and bitbucket
+
 def paginate(iterable, page_size):
     while True:
         i1, i2 = itertools.tee(iterable)
