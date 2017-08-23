@@ -10,6 +10,7 @@ from shutil import move
 # testing git push and pull to github and bitbucket
 # testing git push double from pycharm
 # testing git push double from pycharm 2
+# testing git push double from pycharm 3
 
 def paginate(iterable, page_size):
     while True:
