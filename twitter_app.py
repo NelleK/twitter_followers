@@ -8,8 +8,7 @@ import time
 from shutil import move
 
 # testing git push and pull to github and bitbucket
-# test 2
-# dev
+# test commit 1
 
 def paginate(iterable, page_size):
     while True:
