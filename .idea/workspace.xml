@@ -27,8 +27,8 @@
       <file leaf-file-name="twitter_app.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/twitter_app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            <state relative-caret-position="187">
+              <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
               <folding>
                 <element signature="e#66#79#0" expanded="true" />
               </folding>
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504435291343</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test commit 1">
+      <created>1504693243209</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1504693243209</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -198,7 +205,8 @@
     <MESSAGE value="4th x Testing Pycharm push to github and bitbucket separately" />
     <MESSAGE value="5th x Testing Pycharm push to github and bitbucket separately" />
     <MESSAGE value="remove test messages and github repo from remotes" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove test messages and github repo from remotes" />
+    <MESSAGE value="test commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -269,8 +277,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        <state relative-caret-position="187">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
           <folding>
             <element signature="e#66#79#0" expanded="true" />
           </folding>
